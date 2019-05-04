@@ -1,2 +1,3 @@
 # Conduction-Meter-Arduino-Code
-This is the code to run on the Arduino Nano Check out the project page to get instructions on how to install.
+
+This is a project built and programed for the Kal Secondary Science Department. It is designed to mesure the reletive conduction of any matireal placed across the output probes
