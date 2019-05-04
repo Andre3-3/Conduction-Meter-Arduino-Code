@@ -5,4 +5,6 @@ This is a project built and programed for the Kal Secondary Science Department a
 
 # To Get Started Click Below
 
+[Start Here](Home)
+
 
