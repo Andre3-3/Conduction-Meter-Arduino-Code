@@ -1,5 +1,3 @@
-
-
 #include <Wire.h>                    //includes the Wire.h libary for arduino if program dosent compile you should check that you have this
 #include <LiquidCrystal_I2C.h>       //includes the LiquidCrystal_I2c.h libary this is VERY IMPORTAINT make sure you only use the libary from this link 
 
